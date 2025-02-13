@@ -50,7 +50,7 @@ video {
 }
 img {
   max-height: 200px;
-  width: 100%;
+  width: 50%;
   -webkit-user-select: none;
   user-select: none;
 }
