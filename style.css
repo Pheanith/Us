@@ -45,11 +45,13 @@ body {
 video {
   max-height: 200px;
   width: 100%;
+  -webkit-user-select: none;
   user-select: none;
 }
 img {
   max-height: 200px;
   width: 100%;
+  -webkit-user-select: none;
   user-select: none;
 }
 
@@ -72,6 +74,7 @@ p {
   font-size: 50px;
   color: rgb(0,0,100);
   opacity: 0.75;
+  -webkit-user-select: none;
   user-select: none;
   
   /* // filter: drop-shadow(2px 1.5px 1px rgba(0,0,105,0.9)); */
